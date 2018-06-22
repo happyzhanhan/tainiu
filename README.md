@@ -2,6 +2,10 @@
 
 > order
 
+因为没有校验工具，我换饿了嘛框架。哈哈
+
+> 先创建git ,再更新到本地，然后初始化项目，然后上传git
+
 ## Quick Start
 ``` bash
 # install vue,select vue-router

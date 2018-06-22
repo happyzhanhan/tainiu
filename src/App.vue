@@ -14,6 +14,12 @@ export default {
 @import '~vux/src/styles/reset.less';
 
 body {
-  background-color: #fbf9fe;
+  background-color: #fff;
+}
+a{
+  color:#cd2f23;
+}
+button,input{
+  outline:none;
 }
 </style>
